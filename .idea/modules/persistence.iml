@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="persistence [file:/C:/Users/bulbu/IdeaProjects/Assignment_sbt/]" external.linked.project.path="$MODULE_DIR$/../../persistence" external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_15">
+    <output url="file://$MODULE_DIR$/../../persistence/target/scala-2.12/classes" />
+    <output-test url="file://$MODULE_DIR$/../../persistence/target/scala-2.12/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../persistence">
+      <excludeFolder url="file://$MODULE_DIR$/../../persistence/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="common" exported="" />
+    <orderEntry type="library" scope="TEST" name="sbt: com.h2database:h2:1.4.200:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.thoughtworks.paranamer:paranamer:2.8:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe.slick:slick_2.12:3.3.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.typesafe:config:1.4.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.bytebuddy:byte-buddy-agent:1.10.15:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.bytebuddy:byte-buddy:1.10.15:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.checkerframework:checker-qual:3.5.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.json4s:json4s-ast_2.12:3.5.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.json4s:json4s-core_2.12:3.5.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.json4s:json4s-native_2.12:3.5.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.json4s:json4s-scalap_2.12:3.5.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.mockito:mockito-core:3.6.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.mockito:mockito-scala_2.12:1.16.15:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.objenesis:objenesis:3.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.postgresql:postgresql:42.2.18:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.reactivestreams:reactive-streams:1.0.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang.modules:scala-collection-compat_2.12:2.0.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang.modules:scala-xml_2.12:1.0.6:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.12.12:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-reflect:2.12.12:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scalactic:scalactic_2.12:3.2.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.slf4j:slf4j-api:2.0.0-alpha1:jar" level="project" />
+    <orderEntry type="library" name="sbt: ru.vyarus:generics-resolver:3.0.3:jar" level="project" />
+  </component>
+</module>
